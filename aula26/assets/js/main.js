@@ -2,15 +2,33 @@ const form = document.querySelector('.form');
 
 form.addEventListener('submit', function (e) {
     e.preventDefault();
-    setResultado('')
+    const  inputPeso = e.target.querySelector('#peso');
+    const  inputAltura = e.target.querySelector('#altura');
+
+    const peso = Number(inputPeso.value);
+    const altura = Number(inputAltura.value);
+
+    if (!peso) {
+        setResultado ('Peso Inválido!', false);
+        return;
+    }
+
+    if (!altura) {
+        setResultado ('Altura Inválido!', false);
+        return;
+    }
+
 
 });
 
-function setResultado (msg) {
+function criaP (className) {
+const p = document.createElement('p');
+return p;
+}
+
+function setResultado (msg, isValid) {
  const resultado = document.querySelector('#resultado');
  resultado.innerHTML = '';
- const p = document.createElement('p');
- p.classList.add ('paragrafo-resultado');
- p.innerHTML ='Qualquer coisa';
- resultado.appendChild(p);
+
+ const p = criaP();
 }
