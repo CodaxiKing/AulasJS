@@ -31,4 +31,5 @@ function setResultado (msg, isValid) {
  resultado.innerHTML = '';
 
  const p = criaP();
+ resultado.appendChild(p)
 }
