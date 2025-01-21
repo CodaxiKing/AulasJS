@@ -23,6 +23,8 @@ form.addEventListener('submit', function (e) {
     const nivelImc = getNivelImc(imc);
 
     const msg = `Seu IMC é ${imc} (${nivelImc}).`;
+
+    setResultado(msg, true);
 });
 
 function getNivelImc (imc) {
