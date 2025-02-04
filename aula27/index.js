@@ -5,4 +5,4 @@ const nivelUsuario = pontuacaoUsuario >= 1000 ? 'Usuário VIP' : 'usuário Norma
 const corUsuario = null;
 const corPadrao = corUsuario || 'Preto';
 
-console.log(nivelUsuario);
+console.log(nivelUsuario, corPadrao);
