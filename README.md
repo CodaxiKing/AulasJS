@@ -1,5 +1,5 @@
 # AulasJS
-Repositorio criado para o Curso Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns
+- Repositorio criado para o Curso Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns
 
 Aprenda Javascript moderno (ES6+) para front-end (com Webpack, babel, React, React Hooks, Redux, HTML5, CSS3 e mais) e back-end (com Node, Express, MySQL / MariaDB, MongoDB, PostgreSQL, Next.Js, Strapi e mais) e se torne um(a) desenvolvedor(a) full stack.
 
