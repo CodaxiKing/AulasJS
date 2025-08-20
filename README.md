@@ -7,15 +7,15 @@
 
 ## 🎯 Sobre o Projeto
 
-[DETALHE UM POUCO MAIS SOBRE A ARQUITETURA DO PROJETO, AS DECISÕES TÉCNICAS QUE VOCÊ TOMOU E O PORQUÊ DE TER ESCOLHIDO ESSAS TECNOLOGIAS.]
+O curso abrange o ecossistema JavaScript de ponta a ponta, desde os fundamentos da linguagem (ES6+) até o desenvolvimento de aplicações complexas no front-end (com React, Hooks, Redux) e no back-end (com Node.js, Express, bancos de dados SQL e noSQL). O conteúdo também inclui TypeScript, boas práticas como S.O.L.I.D, testes automatizados e deploy em servidores Linux.
 
 ### 🧠 Desafios e Aprendizados
 
 Este projeto foi uma excelente oportunidade para aprofundar meus conhecimentos em:
 
--   **[Tópico 1]:** [Ex: "Consumo de APIs REST com tratamento de erros e autenticação JWT."]
--   **[Tópico 2]:** [Ex: "Gerenciamento de estado global no React com Redux Toolkit."]
--   **[Tópico 3]:** [Ex: "Criação de um back-end seguro com validação de dados e middlewares no Express."]
+-   **[Tópico 1]:** ["Consumo de APIs REST com tratamento de erros e autenticação JWT."]
+-   **[Tópico 2]:** ["Gerenciamento de estado global no React com Redux Toolkit."]
+-   **[Tópico 3]:** ["Criação de um back-end seguro com validação de dados e middlewares no Express."]
 
 ## 🚀 Tecnologias e Ferramentas
 
