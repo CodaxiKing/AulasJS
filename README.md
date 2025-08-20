@@ -53,7 +53,7 @@ Siga os passos abaixo para executar o projeto em seu ambiente local:
 
 ## 📫 Contato
 
-**[Seu Nome Completo]** - [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+**[Diego Tavares de Melo]** - [diegomelo437@gmail.com](mailto:diegomelo437@gmail.com)
 
--   [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
--   [GitHub](https://github.com/seu-usuario/)
+-   [LinkedIn](https://www.linkedin.com/in/diego-tavares-melo/)
+-   [GitHub](https://github.com/CodaxiKing)
